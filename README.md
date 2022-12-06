@@ -1,4 +1,4 @@
-# PROJECTS-HUAWEI-DIGIX-Advertisement-CTR-Prediction-
+# HUAWEI-DIGIX-Advertisement-CTR-Prediction-
 
 Aim: Based on a set of features determine the click through rate for  mobile advertising. 
 
